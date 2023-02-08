@@ -1,0 +1,1 @@
+import "./CharBar.css";
